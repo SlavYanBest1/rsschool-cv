@@ -65,3 +65,4 @@ Self-education
 ## English
 
 | **A2 (Pre-Intermediate)** | English test result |
+| **A2 (Pre-Intermediate)** | French test result |
